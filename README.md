@@ -1,16 +1,20 @@
 # EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
 
 Aim:
+
 To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools, analyse its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
 
 Tools Required:
+
 •	Personal Computer
 •	Cadence Virtuoso Software
 
 S C H E M A T I C S I M U L A T I O N:
 
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
+
 Commands to get into Cadence
+
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
 •	csh
@@ -28,13 +32,15 @@ iii.	Create the Symbol for schematic Cell view.
 iv.	Create the test Cell view.
 v.	Analog simulation by spectre
 
-
 i)	Procedure for Creating New Library.
+
 •	File –New – Library
 •	Name : Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
 •	Attach the library to the technology library gpdk045.Click OK
+
 ii)	Create Schematic Cell view.
+
 •	Go to 1st window i.e virtuoso(CIW)
 •	File-New-Cell view
 •	Setup the new file form
@@ -53,6 +59,7 @@ ii)	Create Schematic Cell view.
 ![11](https://github.com/user-attachments/assets/193a3940-3afe-46f9-ba35-133615136171)
  
 iii)	Creating the Symbol for schematic Cell view
+
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
 	The cell view from cell view window appears
@@ -68,6 +75,7 @@ iii)	Creating the Symbol for schematic Cell view
 ![12](https://github.com/user-attachments/assets/7e61b81d-386a-40f8-9f95-1723ad90d173)
  
 iv)	Creating the new test cell view
+
 •	Go to CIW window, Execute File-New-Cell view
 	Setup the new file form
 	Library: Select the one you created.
@@ -79,6 +87,7 @@ iv)	Creating the new test cell view
 ![13](https://github.com/user-attachments/assets/f85b55fe-aa14-4593-adb5-4959a5aaddb2)
 
 Analog simulation by SPECTRE.
+
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
