@@ -59,6 +59,8 @@ ii)	Create Schematic Cell view.
 	+ Click Check and Save button
 
 ![11](https://github.com/user-attachments/assets/193a3940-3afe-46f9-ba35-133615136171)
+
+	
  
 iii)	Creating the Symbol for schematic Cell view
 
