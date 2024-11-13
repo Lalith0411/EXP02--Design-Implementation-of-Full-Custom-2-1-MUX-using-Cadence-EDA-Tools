@@ -12,7 +12,6 @@ To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,
 ### S C H E M A T I C S I M U L A T I O N:
 
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
-
 Commands to get into Cadence
 
 1.	Right Click and open the terminal window
@@ -27,17 +26,11 @@ Procedure for Schematic simulation using Cadence
 2.	Close the 2nd window
 3.	Use 1st window i.e virtuoso window(CIW) for further processing.
 	
-	 i.	Create a New Library
-	 
-	ii.	Create Schematic Cell view.
-		
-	iii.	Create the Symbol for schematic Cell view.
-		
-	iv.	Create the test Cell view.
-	
-	v.	Analog simulation by spectre
-
-
+	- Create a New Library
+	- Create Schematic Cell view.
+  - Create the Symbol for schematic Cell view.
+  - Create the test Cell view.
+  - Analog simulation by spectre
 
 i)	Procedure for Creating New Library.
 
@@ -54,6 +47,7 @@ ii)	Create Schematic Cell view.
 	 + Library: Select the one you a created.
 	 + Cell : Give the experiment name Ex: Inverter View_Schematic
 	 + Type: Schematic press OK
+    
 - Add the required components from the libraries and make the connections.
 	 + Go to instance fixed menu or use shortcut key “I” from keypad to go instances
 	+ Click on browse. This opens the library browser
