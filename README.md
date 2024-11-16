@@ -24,11 +24,6 @@ Commands to get into Cadence
 	- source /cadence/install/cshrc
 	- virtuoso
 
-<br>
-<br>
-<br>
-<br>
-
 Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i)virtuoso/command interpreter window ii)”Whats New…”
@@ -101,9 +96,6 @@ iv)	Creating the new test cell view
 
 ![13](https://github.com/user-attachments/assets/f85b55fe-aa14-4593-adb5-4959a5aaddb2)
 
-<br>
-<br>
-
 ### Analog simulation by SPECTRE.
 
 - In test cell view window
@@ -118,29 +110,12 @@ iv)	Creating the new test cell view
 
 ![14](https://github.com/user-attachments/assets/35729903-1be7-468c-925b-47cedf276394)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ### For Transient Analysis Settings and Output
 
 ![15](https://github.com/user-attachments/assets/6b7d505e-ca59-45fc-8ce1-1cf23d952bd2)
 
 
- ![16](https://github.com/user-attachments/assets/4cdd1104-7c24-45ed-9c63-c467666b2d4a)
-
-
-
- 
+![16](https://github.com/user-attachments/assets/4cdd1104-7c24-45ed-9c63-c467666b2d4a)
 
 ### Results:
 
